@@ -6,6 +6,9 @@ Training
 Extras
 There are a lot of helpful Git and GitHub resources on the web. This is a short list of our favorites!
 
+*** Adding new line ***
+
+
 Using Git
 Familiarize yourself with Git by visiting the official Git project site and reading the ProGit book. You can also review the Git command list.
 
